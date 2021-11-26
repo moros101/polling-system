@@ -1,3 +1,5 @@
+![](images/display.jpg)
+
 # Polling-system    
 
 > Real-Time polling application using Pusher, Node.js, Express, MongoDB and CanvasJS
